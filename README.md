@@ -10,6 +10,5 @@
 
  ### 1. Clone the Application
  
-     git clone https://github.com/chunJyi/PageAndSortUsingCriteriaQuery.git
-
+    https://github.com/chunJyi/converter_json_to_csv.git
 
