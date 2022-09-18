@@ -30,11 +30,9 @@ public class Main {
         /*
          *  Parse a Large JSON File and convert it to CSV
          */
-        List<Map<String, String>> flatJson = Flatter.parseJson(new File("files/large-file.json"), "UTF-8");
-        // Using ';' as separator
-        Set<String> header = CSVWriter.collectOrderHeaders(flatJson);
-        // the intention is generate a csv file with specific headers - not all
-        CSVWriter.writeLargeFile(flatJson, ";", "files/sample_largeFile.csv", header);
+//        List<Map<String, String>> flatJson = Flatter.parseJson(new File("files/large-file.json"), "UTF-8");
+//        Set<String> header = CSVWriter.collectOrderHeaders(flatJson);
+//        CSVWriter.writeLargeFile(flatJson, ";", "files/sample_largeFile.csv", header);
     }
 
 
