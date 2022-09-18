@@ -1,0 +1,81 @@
+[{
+	"_id": "58506dd27f3ef8eb99311ccd",
+	"_class": "java.util.LinkedHashMap",
+	"status": "ENCONTRADO",
+	"instancia": "PRIMEIRO_GRAU",
+	"ano": 2016,
+	"numeroProcesso": 54223,
+	"numeroComarca": 87,
+	"tipoTribunal": 8,
+	"tribunal": 9,
+	"cnj": "54223-48.2016.8.09.0087",
+	"informacoesAdicionais": {
+		"DADOS DO PROCESSO": {
+			"Advogado": "201600542233                                               54223-48.2016.8.09.0087",
+			"Autor": "17/08/2016",
+			"Réu": "BANCO BMG S/A",
+			"Distribuição": "NORMAL - 18/02/2016 - 08:59",
+			"Fase": "07/11/2016 - 15:11 \n RECEBIDO PELO TRIBUNAL DE JUSTICA",
+			"Cidade": "ITUMBIARA - 2A VARA CIVEL E FAZENDA PUBLICA ESTADUAL",
+			"Localização": "4M",
+			"Juiz": "Dr(a). CARLOS HENRIQUE LOUCAO",
+			"Interessado": "Dr(a). JALES GUEDES COELHO MENDONCA"
+		},
+		"PARTES": {
+			"Autor": "MARLOS LUIZ DA COSTA",
+			"Réu": "BANCO BMG S/A"
+		},
+		"MOVIMENTAÇÕES": {
+			"Data_0001": "31/10/2016 - 09 - AGUARDANDO PUBLICACAO DE EXTRATO",
+			"Data_0002": "28/10/2016 - 10 - AUTOS CONCLUSOS REMETIDOS A ESCRIVANIA",
+			"Data_0003": "18/10/2016 - 09 - AUTOS CONCLUSOS",
+			"Data_0004": "17/10/2016 - 16 - AGUARDANDO PROVIDENCIA DA ESCRIVANIA\n                                     DESC. FASE: PARA EXPEDIR...\nMANDADO\nDIGO, CONCLUSO",
+			"Data_0005": "16/09/2016 - 14 - AGUARDANDO DECURSO DE PRAZO\n                                     DESC. FASE: JUDICIAL",
+			"Data_0006": "15/09/2016 - 17 - DEVOLVIDO A ESCRIVANIA",
+			"Data_0007": "31/08/2016 - 14 - COM CARGA AO ADVOGADO\n                                     DESC. FASE: ADVOGADO : RUI DENIZARD ALVES NOVAIS\nCARGA COM ADV DO AUTOR OAB: 28110-GO",
+			"Data_0008": "24/08/2016 - 16 - SENTENCA TRANSITANDO EM JULGADO",
+			"Data_0009": "24/08/2016 - 15 - AGUARDANDO PUBLICACAO DE EXTRATO",
+			"Data_0010": "23/08/2016 - 13 - AUTOS CONCLUSOS REMETIDOS A ESCRIVANIA",
+			"Data_0011": "24/06/2016 - 10 - AUTOS CONCLUSOS - RECEBIDOS",
+			"Data_0012": "24/06/2016 - 09 - AUTOS CONCLUSOS",
+			"Data_0013": "21/06/2016 - 12 - AGUARDANDO PROVIDENCIA DA ESCRIVANIA\n                                     DESC. FASE: PARA EXPEDIR...\nMANDADO\nDIGO,CONCLUSO"
+		}
+	},
+	"publico": true,
+	"digital": false
+},
+{
+	"_id": "585174c97f3e3f32f739d98b",
+	"_class": "java.util.LinkedHashMap",
+	"status": "ENCONTRADO",
+	"instancia": "PRIMEIRO_GRAU",
+	"ano": 2016,
+	"numeroProcesso": 0,
+	"numeroComarca": 136,
+	"tipoTribunal": 8,
+	"tribunal": 5,
+	"cnj": "0000537-05.2016.805.0136",
+	"informacoesAdicionais": {
+		"DADOS DO PROCESSO": {
+			"Autor": "",
+			"Réu": "V DOS FEITOS DE REL DE CONS CIV E COMERCIAIS",
+			"Cidade": "JACARACI",
+			"Localização": "",
+			"Processos Apensos": ""
+		},
+		"PARTES": {
+			"Autor": "Nome: MANOELA PALMEIRAS DE JESUS \u003cbr\u003e Advogado: FILLIPE CALOS GONÇALVES DE MAGALHÃES ROCHA (MG-126334)",
+			"Réu": "Nome: BANCO BMG S/A \u003cbr\u003e Advogado: "
+		},
+		"MOVIMENTAÇÕES": {
+			"Data_0001": "10/11/2016 - PUBLICADO PELO DPJ \u003cbr\u003eDATA PUBLICADO 10/11/16 \u003cbr\u003e",
+			"Data_0002": "09/11/2016 - ENVIADO PARA PUBLICAÇÃO NO DPJ \u003cbr\u003eDATA A SER PUBLICADO 10/11/2016 \u003cbr\u003e",
+			"Data_0003": "08/11/2016 - PROFERIDO DESPACHO DE MERO EXPEDIENTE \u003cbr\u003eJUIZ CECILIA ANGELICA DE AZEVEDO FROTA \u003cbr\u003eJUNTADA DE DESPACHO AOS AUTOS \u003cbr\u003e",
+			"Data_0004": "20/09/2016 - DISTRIBUÍDO POR COMPETÊNCIA EXCLUSIVA \u003cbr\u003eVARA V DOS FEITOS DE REL DE CONS CIV E COMERCIAISTIPO COMPETÊNCIA EXCLUSIVA \u003cbr\u003e"
+		}
+	},
+	"publico": true,
+	"digital": false
+}
+]
+

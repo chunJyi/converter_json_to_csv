@@ -1,0 +1,3 @@
+studentName,subjects[0].name,subjects[0].marks,subjects[1].name,subjects[1].marks,Age
+Foo,English,40,History,50,12
+Aee,English,50,History,55,12

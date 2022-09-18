@@ -1,0 +1,4 @@
+studentName,subjects[0].name,subjects[0].marks,subjects[1].name,subjects[1].marks,Age,subjects[2].name,subjects[2].marks
+Foo,English,40,History,50,12,,
+Bar,English,40,History,50,12,Science,40
+Baz,,,,,12,,
